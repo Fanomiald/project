@@ -3,4 +3,3 @@ gunicorn
 psutil
 geocoder
 requests
-sqlite3
